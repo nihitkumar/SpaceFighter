@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpaceFighter</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_game_view">GameView</string>
+</resources>
